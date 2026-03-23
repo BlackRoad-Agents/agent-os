@@ -1,0 +1,1 @@
+{ "defaultModel": "tinyllama:latest", "maxConcurrentAgents": 100, "tickRateMs": 100, "maxRestarts": 5, "ollamaEndpoints": ["http://localhost:11434", "http://192.168.4.38:11434"], "capabilities": ["chat", "memory.read", "memory.write", "inference", "deploy", "spawn", "admin"] }
