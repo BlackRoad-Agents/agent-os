@@ -1,0 +1,1 @@
+{ "name": "@blackroad/agent-os", "version": "2.0.0", "description": "BlackRoad Agent OS — kernel, memory, spawner, NLP dispatch", "main": "core/kernel.js", "scripts": { "start": "node scripts/boot.sh", "test": "node tests/kernel.test.js && node tests/memory.test.js && node tests/nlp.test.js" }, "license": "SEE LICENSE IN LICENSE", "author": "BlackRoad OS, Inc." }
